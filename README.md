@@ -26,11 +26,10 @@ State Mgmt   React hooks or context (if applicable)
 
 
 
+
 🔀 Smart Assign
 When a new task is created:
-
 The system evaluates user workload.
-
 Assigns the task to the user with the least number of open tasks.
 
 
